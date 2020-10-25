@@ -1,6 +1,6 @@
 User-agent: *
 
-Sitemap: http://dev-dark-theme.codermarcos.com/sitemap.xml 
-Sitemap: http://dev-dark-theme.codermarcos.com/tag-sitemap.xml
-Sitemap: http://dev-dark-theme.codermarcos.com/post-sitemap.xml
-Sitemap: http://dev-dark-theme.codermarcos.com/category-sitemap.xml
+Sitemap: http://ssch.me/sitemap.xml 
+Sitemap: http://ssch.me/tag-sitemap.xml
+Sitemap: http://ssch.me/post-sitemap.xml
+Sitemap: http://ssch.me/category-sitemap.xml
