@@ -122,7 +122,7 @@ theme: dev-dark-theme
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/codermarcos/dev-dark-theme
+  repo: https://github.com/ssghost/dev-dark-theme
   branch: gh-pages
   message: "Deploy theme: {{ now('YYYY-MM-DD HH:mm:ss') }})"
 
