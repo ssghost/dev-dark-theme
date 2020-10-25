@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Dev Dark Theme
+title: Dev Dark Theme Version S
 
 # meta tags
 charset: utf-8
 robots: index, follow
-keywords: Dev-Dark-Theme, DevDarkTheme, Hexo, Theme, Dev, Dark, Theme
-content: The dev dark theme is a theme developed by Marcos Gonçalves(codermarcos) using hexo.
-author: codermarcos
+keywords: DevDarkTheme, Hexo, Theme
+content: The dev dark theme version s is modified by ssghost using hexo.
+author: codermarcos, ssghost
 
 # Locale
-language: pt
+language: en
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 
@@ -62,11 +62,11 @@ generator_amp:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://dev-dark-theme.codermarcos.com
+url: http://www.ssch.me/
 root: /
 permalink: :lang/:category/:title/
 permalink_defaults: 
-  lang: pt
+  lang: en
 
 # Directory
 source_dir: source
@@ -100,7 +100,7 @@ highlight:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 4
+  per_page: 6
   order_by: -date
   
 # Category & Tag
@@ -110,7 +110,7 @@ tag_map:
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 4
+per_page: 6
 pagination_dir: lasts
 
 # Extensions
